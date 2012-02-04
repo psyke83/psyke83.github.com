@@ -19,6 +19,17 @@
                 }
             ]
         },
+    "roms": [
+        {
+            "label": "Recovery ROMs for Samsung Galaxy 5",
+            "name": "ClockworkMod 5.0.2.8",
+            "summary": "Official ClockworkMod build\nDue to a ROM Manager limitation, you must use this package to flash the full recovery image",
+            "product": "gingerbread-recovery",
+            "modversion": "5.0.2.8",
+            "incremental": "5.0.2.8",
+            "device": "galaxy5",
+            "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/recovery/recovery-clockwork-5.0.2.8-galaxy5.img.zip",
+        },
         {
             "label": "ROMs for Huawei U8160/U8180",
             "name": "CyanogenMod 7.2-RC0",
