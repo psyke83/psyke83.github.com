@@ -54,7 +54,8 @@
         {
             "label": "ICS ROMs for Huawei U8160/U8180",
             "name": "CyanogenMod 9",
-            "summary": "Alpha 2 (20111129)\nNot recommended.",
+            "summary": "Alpha 2 (20111129)\nDeveloper preview - not recommended",
+            "visibility": "hidden",
             "product": "ics-nightly",
             "modversion": "CyanogenMod-9-20111129-MADTEAM-U8160",
             "incremental": "20111129",
