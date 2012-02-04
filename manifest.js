@@ -27,7 +27,7 @@
             "modversion": "5.0.2.8",
             "incremental": "5.0.2.8",
             "device": "galaxy5",
-            "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/recovery/recovery-clockwork-5.0.2.8-galaxy5.img.zip",
+            "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/recovery/recovery-clockwork-5.0.2.8-galaxy5.img.zip"
         },
         {
             "label": "ROMs for Huawei U8160/U8180",
