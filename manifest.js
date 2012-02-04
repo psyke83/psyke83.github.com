@@ -23,6 +23,7 @@
             "label": "Gingerbread ROMs for Huawei U8160/U8180",
             "name": "CyanogenMod 7.2-RC0",
             "summary": "Nightly Release (20120204) [fake test]",
+            "visible": "false",
             "product": "gingerbread-nightly",
             "modversion": "CyanogenMod-7-20120204-MADTEAM-U8160",
             "incremental": "20120204",
