@@ -5,10 +5,23 @@
     "roms": [
         {
             "name": "CyanogenMod 7.2-RC0",
-            "summary": "Nightly Release (20120203)",
+            "summary": "Nightly Release (20120203) [fake update]",
             "product": "gingerbread-nightly",
             "modversion": "CyanogenMod-7-20120203-MADTEAM-U8160",
             "incremental": "20120204",
+            "device": "u8160",
+            "url": "http://goo-inside.me/devs/psyke83/roms/u8160/update-cm-7-20120203-MADTEAM-U8160.zip",
+            "addons": [
+                {
+                    "name": "Google Apps (20110828)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                }
+        {
+            "name": "CyanogenMod 7.2-RC0",
+            "summary": "Nightly Release (20120203)",
+            "product": "gingerbread-nightly",
+            "modversion": "CyanogenMod-7-20120203-MADTEAM-U8160",
+            "incremental": "20120203",
             "device": "u8160",
             "url": "http://goo-inside.me/devs/psyke83/roms/u8160/update-cm-7-20120203-MADTEAM-U8160.zip",
             "addons": [
