@@ -4,7 +4,7 @@
     "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=UJKH4W8TDQ6WS&lc=IE&item_name=Donations&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted",
     "roms": [
         {
-            "label": "Gingerbread ROMs for Samsung Galaxy 5",
+            "label": "ROMs for Samsung Galaxy 5",
             "name": "CyanogenMod 7.2-RC0",
             "summary": "Nightly Release (20120204) [fake test]",
             "product": "gingerbread-nightly",
@@ -20,7 +20,7 @@
             ]
         },
         {
-            "label": "Gingerbread ROMs for Huawei U8160/U8180",
+            "label": "ROMs for Huawei U8160/U8180",
             "name": "CyanogenMod 7.2-RC0",
             "summary": "Nightly Release (20120204) [fake test]",
             "visible": "false",
@@ -37,7 +37,7 @@
             ]
         },
         {
-            "label": "Gingerbread ROMs for Huawei U8160/U8180",
+            "label": "ROMs for Huawei U8160/U8180",
             "name": "CyanogenMod 7.2-RC0",
             "summary": "Nightly Release (20120203)",
             "product": "gingerbread-nightly",
