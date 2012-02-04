@@ -22,7 +22,7 @@
         {
             "label": "Recovery ROMs for Samsung Galaxy 5",
             "name": "ClockworkMod 5.0.2.8",
-            "summary": "Official ClockworkMod build\nDue to a ROM Manager limitation, you must use this package to flash the full recovery image",
+            "summary": "This will flash the full version (not the readonly_recovery version) to your recovery partition.",
             "product": "gingerbread-recovery",
             "modversion": "5.0.2.8",
             "incremental": "5.0.2.8",
