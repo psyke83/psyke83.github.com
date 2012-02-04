@@ -19,7 +19,6 @@
                 }
             ]
         },
-    "roms": [
         {
             "label": "Recovery ROMs for Samsung Galaxy 5",
             "name": "ClockworkMod 5.0.2.8",
