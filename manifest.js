@@ -20,6 +20,22 @@
             ]
         },
         {
+            "label": "Development ROMs for Huawei U8160/U8180",
+            "name": "CyanogenMod 9",
+            "summary": "Alpha 2 (20111129)\nNot recommended.",
+            "product": "ics-nightly",
+            "modversion": "CyanogenMod-9-20111129-MADTEAM-U8160",
+            "incremental": "20111129",
+            "device": "u8160",
+            "url": "http://goo-inside.me/devs/psyke83/roms/u8160/update-cm-9-20111129-MADTEAM-U8160.zip",
+            "addons": [
+                {
+                    "name": "Google Apps for ICS (20120201)",
+                    "url": "http://goo-inside.me/gapps/gapps-ics-20120201-signed.zip.zip"
+                }
+            ]
+        },
+        {
             "label": "ROMs for Huawei U8160/U8180",
             "name": "CyanogenMod 7.2-RC0",
             "summary": "Nightly Release (20120204) [fake test]",
