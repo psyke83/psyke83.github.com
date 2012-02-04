@@ -10,7 +10,7 @@
             "modversion": "CyanogenMod-7-20120203-MADTEAM-U8160",
             "incremental": "20120203",
             "device": "u8160",
-            "url": "http://goo-inside.me/devs/psyke83/roms/u8160/update-cm-7-02032012-MADTEAM-U8160.zip",
+            "url": "http://goo-inside.me/devs/psyke83/roms/u8160/update-cm-7-20120203-MADTEAM-U8160.zip",
             "addons": [
                 {
                     "name": "Google Apps (20110828)",
