@@ -15,7 +15,7 @@
                 {
                     "name": "Google Apps (20110828)",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
-                }
+                },
         {
             "name": "CyanogenMod 7.2-RC0",
             "summary": "Nightly Release (20120203)",
