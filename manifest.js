@@ -5,9 +5,9 @@
     "roms": [
         {
             "name": "CyanogenMod 7.2-RC0",
-            "summary": "Nightly Release (20120203) [fake test]",
+            "summary": "Nightly Release (20120204) [fake test]",
             "product": "gingerbread-nightly",
-            "modversion": "CyanogenMod-7-20120203-MADTEAM-U8160",
+            "modversion": "CyanogenMod-7-20120204-MADTEAM-U8160",
             "incremental": "20120204",
             "device": "u8160",
             "url": "http://goo-inside.me/devs/psyke83/roms/u8160/update-cm-7-20120204-MADTEAM-U8160.zip",
