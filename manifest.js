@@ -26,7 +26,7 @@
         {
             "label": "Hotfixes",
             "name": "Hotfix Selector",
-            "summary": "Use this to install hotfixes (for latest release only)",
+            "summary": "Use this to install hotfixes (for latest release only)\nNote: there's no need to wipe your dalvik cache",
             "device": "galaxy5",
             "visible": "false",
             "url": "http://goo-inside.me/devs/psyke83/roms/emptypackage.zip",
@@ -40,7 +40,7 @@
         {
             "label": "Miscellaneous",
             "name": "WPA Supplicant Selector",
-            "summary": "Lets you install the v5 or v6 WPA supplicant",
+            "summary": "Lets you install the v5 or v6 WPA supplicant\nNote: there's no need to wipe your dalvik cache",
             "device": "galaxy5",
             "url": "http://goo-inside.me/devs/psyke83/roms/emptypackage.zip",
             "addons": [
