@@ -38,7 +38,7 @@
             ]
         },
         {
-            "label": "Miscellaneous",
+            "label": "Miscellaneous for Samsung Galaxy 5",
             "name": "WPA Supplicant Selector",
             "summary": "Lets you install the v5 or v6 WPA supplicant\nNote: there's no need to wipe your dalvik cache",
             "device": "galaxy5",
@@ -55,7 +55,7 @@
             ]
         },
         {
-            "label": "Miscellaneous",
+            "label": "Miscellaneous for Samsung Galaxy 5",
             "name": "ClockworkMod 5.0.2.8",
             "summary": "This will flash the full version (not the readonly_recovery version) to your recovery partition\nNote: there's no need to wipe your dalvik cache",
             "product": "gingerbread-recovery",
