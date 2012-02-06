@@ -15,10 +15,6 @@
             "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/update-cm-7-20120207-MADTEAM-galaxy5.zip",
             "addons": [
                 {
-                    "name": "v2.0 Hotfix 1",
-                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5-v2.0-hotfix1.zip"
-                },
-                {
                     "name": "Google Apps (20110828)",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
                 },
@@ -39,6 +35,10 @@
             "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/update-cm-7-20120206-MADTEAM-galaxy5.zip",
             "addons": [
                 {
+                    "name": "v2.0 Hotfix 1",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5-v2.0-hotfix1.zip"
+                },
+                {
                     "name": "Google Apps (20110828)",
                     "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
                 },
@@ -49,11 +49,11 @@
             ]
         },
         {
-            "label": "Hotfixes",
+            "label": "Miscellaneous for Samsung Galaxy 5",
             "name": "Hotfix Updater",
             "summary": "Use this if you need to install a new hotfix\nNote: some hotfixes may require a dalvik cache wipe",
             "device": "galaxy5",
-            "visible": "false",
+            "visible": "true",
             "url": "http://goo-inside.me/devs/psyke83/roms/emptypackage.zip",
             "addons": [
                 {
