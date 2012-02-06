@@ -20,6 +20,21 @@
             ]
         },
         {
+            "label": "Hotfixes & miscellaneous packages for Samsung Galaxy 5",
+            "name": "Hotfix Selector",
+            "summary": "Use this to download hotfixes for recent builds\nor an alternate wpa_supplicant version for testing purposes",
+            "device": "galaxy5",
+            "url": "http://goo-inside.me/devs/psyke83/roms/emptypackage.zip",
+            "addons": [
+                {
+                    "name": "v6 wpa_suppliant (20120206)",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/wpa_supplicant_6_20120206.zip",
+                    "name": "v5 wpa_suppliant (20120206)",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/wpa_supplicant_5_20120206.zip"
+                }
+            ]
+        },
+        {
             "label": "Recovery ROMs for Samsung Galaxy 5",
             "name": "ClockworkMod 5.0.2.8",
             "summary": "This will flash the full version (not the readonly_recovery version) to your recovery partition.",
