@@ -35,8 +35,8 @@
             "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/update-cm-7-20120206-MADTEAM-galaxy5.zip",
             "addons": [
                 {
-                    "name": "v2.0 (20120206) Hotfix 1",
-                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5-v2.0-hotfix1.zip"
+                    "name": "v2.0 (20120206) Hotfix 2",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5-v2.0-hotfix2.zip"
                 },
                 {
                     "name": "Google Apps (20110828)",
@@ -51,21 +51,21 @@
         {
             "label": "Miscellaneous for Samsung Galaxy 5",
             "name": "Hotfix Updater",
-            "summary": "Use this to install new hotfixes separately\n-DO remember that you must manually select a hotfix\n-DON'T select mismatching hotfix versions",
+            "summary": "Use this to install new hotfixes separately\n*DO remember that you must manually choose ONE hotfix from the list\n*DON'T select mismatching hotfix versions",
             "device": "galaxy5",
             "visible": "true",
             "url": "http://goo-inside.me/devs/psyke83/roms/emptypackage.zip",
             "addons": [
                 {
-                    "name": "v2.0 (20120206) Hotfix 1",
-                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/galaxy5-v2.0-hotfix1.zip"
+                    "name": "v2.0 (20120206) Hotfix 2",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/galaxy5-v2.0-hotfix2.zip"
                 }
             ]
         },
         {
             "label": "Miscellaneous for Samsung Galaxy 5",
-            "name": "WPA Supplicant Selector",
-            "summary": "Lets you install the v5 or v6 WPA supplicant\nNote: there's no need to wipe your dalvik cache",
+            "name": "WPA Supplicant Choose",
+            "summary": "Lets you install the v5 or v6 WPA supplicant for wifi testing purposes\*Note: there's no need to wipe your dalvik cache",
             "device": "galaxy5",
             "url": "http://goo-inside.me/devs/psyke83/roms/emptypackage.zip",
             "addons": [
@@ -82,7 +82,7 @@
         {
             "label": "Miscellaneous for Samsung Galaxy 5",
             "name": "ClockworkMod 5.0.2.8",
-            "summary": "This will flash the full version (not the readonly_recovery version) to your recovery partition\nNote: there's no need to wipe your dalvik cache",
+            "summary": "This will flash the full version (not the readonly_recovery version) to your recovery partition\n*Note: there's no need to wipe your dalvik cache",
             "product": "gingerbread-recovery",
             "modversion": "5.0.2.8",
             "incremental": "5.0.2.8",
