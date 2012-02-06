@@ -51,7 +51,7 @@
         {
             "label": "Miscellaneous for Samsung Galaxy 5",
             "name": "Hotfix Updater",
-            "summary": "Use this to install new hotfixes separately\nREMEMBER to select a hotfix\nDO NOT select a hotfix for a different version of your ROM",
+            "summary": "Use this to install new hotfixes separately\n-DO remember that you must manually select a hotfix\n-DON'T select mismatching hotfix versions",
             "device": "galaxy5",
             "visible": "true",
             "url": "http://goo-inside.me/devs/psyke83/roms/emptypackage.zip",
