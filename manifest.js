@@ -7,7 +7,7 @@
             "label": "ROMs for Samsung Galaxy 5",
             "name": "CyanogenMod 7.2-RC0",
             "summary": "Version 2.1 [fake - update test] (20120207)",
-            "visible": "true",
+            "visible": "false",
             "product": "gingerbread-nightly",
             "modversion": "CyanogenMod-7-20120207-MADTEAM-galaxy5",
             "incremental": "20120207",
