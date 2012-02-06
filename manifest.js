@@ -35,7 +35,7 @@
             "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/update-cm-7-20120206-MADTEAM-galaxy5.zip",
             "addons": [
                 {
-                    "name": "v2.0 Hotfix 1",
+                    "name": "v2.0 Hotfix 1 (20120206)",
                     "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5-v2.0-hotfix1.zip"
                 },
                 {
@@ -57,7 +57,7 @@
             "url": "http://goo-inside.me/devs/psyke83/roms/emptypackage.zip",
             "addons": [
                 {
-                    "name": "v2.0 Hotfix 1",
+                    "name": "v2.0 Hotfix 1 (20120206)",
                     "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5-v2.0-hotfix1.zip"
                 }
             ]
