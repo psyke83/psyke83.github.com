@@ -5,7 +5,7 @@
     "roms": [
         {
             "label": "CM7 ROMs for Samsung Galaxy 5",
-            "name": "CyanogenMod 7.2-RC0 [v2.1]",
+            "name": "CyanogenMod 7.2-RC0 (v2.1)",
             "summary": "[fake - update test] (20120207)",
             "visible": "false",
             "product": "gingerbread-nightly",
@@ -26,7 +26,7 @@
         },
         {
             "label": "CM7 ROMs for Samsung Galaxy 5",
-            "name": "CyanogenMod 7.2-RC0 [v2.0]",
+            "name": "CyanogenMod 7.2-RC0 (v2.0)",
             "summary": "(20120206)",
             "product": "gingerbread-nightly",
             "modversion": "CyanogenMod-7-20120206-MADTEAM-galaxy5",
@@ -104,7 +104,7 @@
         },
         {
             "label": "CM7 ROMs for Huawei U8160/U8180",
-            "name": "CyanogenMod 7.2-RC0 [v0.9]",
+            "name": "CyanogenMod 7.2-RC0 (v0.9)",
             "summary": "Nightly Release (20120203)",
             "product": "gingerbread-nightly",
             "modversion": "CyanogenMod-7-20120203-MADTEAM-U8160",
@@ -120,7 +120,7 @@
         },
         {
             "label": "CM9 ROMs for Huawei U8160/U8180",
-            "name": "CyanogenMod 9 [alpha 2]",
+            "name": "CyanogenMod 9 (alpha 2)",
             "summary": "(20111129)\nDeveloper preview - not recommended",
             "visible": "false",
             "product": "ics-nightly",
