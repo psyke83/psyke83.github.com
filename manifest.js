@@ -6,6 +6,27 @@
         {
             "label": "ROMs for Samsung Galaxy 5",
             "name": "CyanogenMod 7.2-RC0",
+            "summary": "Version 2.1 [fake - update test] (20120207)",
+            "visible": "true",
+            "product": "gingerbread-nightly",
+            "modversion": "CyanogenMod-7-20120207-MADTEAM-galaxy5",
+            "incremental": "20120207",
+            "device": "galaxy5",
+            "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/update-cm-7-20120207-MADTEAM-galaxy5.zip",
+            "addons": [
+                {
+                    "name": "Google Apps (20110828)",
+                    "url": "http://goo-inside.me/gapps/gapps-gb-20110828-signed.zip"
+                },
+                {
+                    "name": "v5 wpa_supplicant (20120206)",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/wpa_supplicant_5_20120206.zip"
+                }
+            ]
+        },
+        {
+            "label": "ROMs for Samsung Galaxy 5",
+            "name": "CyanogenMod 7.2-RC0",
             "summary": "Version 2.0 (20120206)",
             "product": "gingerbread-nightly",
             "modversion": "CyanogenMod-7-20120206-MADTEAM-galaxy5",
