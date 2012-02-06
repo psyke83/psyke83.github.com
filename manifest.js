@@ -4,7 +4,7 @@
     "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=UJKH4W8TDQ6WS&lc=IE&item_name=Donations&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted",
     "roms": [
         {
-            "label": "ROMs for Samsung Galaxy 5",
+            "label": "CM7 ROMs for Samsung Galaxy 5",
             "name": "CyanogenMod 7.2-RC0",
             "summary": "Version 2.1 [fake - update test] (20120207)",
             "visible": "false",
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "label": "ROMs for Samsung Galaxy 5",
+            "label": "CM7 ROMs for Samsung Galaxy 5",
             "name": "CyanogenMod 7.2-RC0",
             "summary": "Version 2.0 (20120206)",
             "product": "gingerbread-nightly",
@@ -86,7 +86,7 @@
             "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/recovery/recovery-clockwork-5.0.2.8-galaxy5.img.zip"
         },
         {
-            "label": "ROMs for Huawei U8160/U8180",
+            "label": "CM7 ROMs for Huawei U8160/U8180",
             "name": "CyanogenMod 7.2-RC0",
             "summary": "Nightly Release (20120204) [fake test]",
             "visible": "true",
@@ -103,7 +103,7 @@
             ]
         },
         {
-            "label": "ROMs for Huawei U8160/U8180",
+            "label": "CM7 ROMs for Huawei U8160/U8180",
             "name": "CyanogenMod 7.2-RC0",
             "summary": "Nightly Release (20120203)",
             "product": "gingerbread-nightly",
@@ -119,7 +119,7 @@
             ]
         },
         {
-            "label": "ICS ROMs for Huawei U8160/U8180",
+            "label": "CM9 ROMs for Huawei U8160/U8180",
             "name": "CyanogenMod 9",
             "summary": "Alpha 2 (20111129)\nDeveloper preview - not recommended",
             "visible": "false",
