@@ -57,7 +57,7 @@
         {
             "label": "Miscellaneous",
             "name": "ClockworkMod 5.0.2.8",
-            "summary": "This will flash the full version (not the readonly_recovery version) to your recovery partition.",
+            "summary": "This will flash the full version (not the readonly_recovery version) to your recovery partition\nNote: there's no need to wipe your dalvik cache",
             "product": "gingerbread-recovery",
             "modversion": "5.0.2.8",
             "incremental": "5.0.2.8",
