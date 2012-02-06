@@ -65,7 +65,7 @@
         {
             "label": "Miscellaneous for Samsung Galaxy 5",
             "name": "WPA Supplicant Choose",
-            "summary": "Lets you install the v5 or v6 WPA supplicant for wifi testing purposes\*Note: there's no need to wipe your dalvik cache",
+            "summary": "Lets you install the v5 or v6 WPA supplicant for wifi testing purposes\n*Note: there's no need to wipe your dalvik cache",
             "device": "galaxy5",
             "url": "http://goo-inside.me/devs/psyke83/roms/chooser.zip",
             "addons": [
