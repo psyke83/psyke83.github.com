@@ -51,7 +51,7 @@
         {
             "label": "Miscellaneous for Samsung Galaxy 5",
             "name": "Hotfix Updater",
-            "summary": "Use this if you need to install a new hotfix\nWarning: only install a hotfix for a matching ROM version\nWiping dalvik cache is usually recommended",
+            "summary": "Use this to install new hotfixes separately\nREMEMBER to select a hotfix\nDO NOT select a hotfix for a different version of your ROM",
             "device": "galaxy5",
             "visible": "true",
             "url": "http://goo-inside.me/devs/psyke83/roms/emptypackage.zip",
