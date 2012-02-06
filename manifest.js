@@ -58,7 +58,7 @@
             "addons": [
                 {
                     "name": "v2.0 (20120206) Hotfix 1",
-                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5-v2.0-hotfix1.zip"
+                    "url": "http://goo-inside.me/devs/psyke83/roms/galaxy5/galaxy5-v2.0-hotfix1.zip"
                 }
             ]
         },
