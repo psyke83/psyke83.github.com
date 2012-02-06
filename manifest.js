@@ -6,7 +6,7 @@
         {
             "label": "ROMs for Samsung Galaxy 5",
             "name": "CyanogenMod 7.2-RC0",
-            "summary": "Nightly Release (20120206)\nVersion 2.0",
+            "summary": "Version 2.0 (20120206)",
             "product": "gingerbread-nightly",
             "modversion": "CyanogenMod-7-20120206-MADTEAM-galaxy5",
             "incremental": "20120206",
