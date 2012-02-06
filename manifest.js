@@ -22,8 +22,9 @@
         {
             "label": "Hotfixes",
             "name": "Hotfix Selector",
-            "summary": "Use this to download recent hotfixes.",
+            "summary": "Use this to install hotfixes (for latest release only)",
             "device": "galaxy5",
+            "visible": "false",
             "url": "http://goo-inside.me/devs/psyke83/roms/emptypackage.zip",
             "addons": [
                 {
@@ -34,8 +35,8 @@
         },
         {
             "label": "Miscellaneous",
-            "name": "WPA Supplicant",
-            "summary": "Lets you select the v5 or v6 WPA supplicant.",
+            "name": "WPA Supplicant Selector",
+            "summary": "Lets you install the v5 or v6 WPA supplicant",
             "device": "galaxy5",
             "url": "http://goo-inside.me/devs/psyke83/roms/emptypackage.zip",
             "addons": [
