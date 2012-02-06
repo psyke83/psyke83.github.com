@@ -20,9 +20,22 @@
             ]
         },
         {
-            "label": "Miscellaneous",
+            "label": "Hotfixes",
             "name": "Hotfix Selector",
-            "summary": "Use this to download hotfixes for recent builds\nor an alternate wpa_supplicant version for testing purposes",
+            "summary": "Use this to download recent hotfixes.",
+            "device": "galaxy5",
+            "url": "http://goo-inside.me/devs/psyke83/roms/emptypackage.zip",
+            "addons": [
+                {
+                    "name": "Nothing yet",
+                    "url": "http://goo-inside.me/devs/psyke83/roms/emptypackage.zip.zip"
+                }
+            ]
+        },
+        {
+            "label": "Miscellaneous",
+            "name": "WPA Supplicant",
+            "summary": "Lets you select the v5 or v6 WPA supplicant.",
             "device": "galaxy5",
             "url": "http://goo-inside.me/devs/psyke83/roms/emptypackage.zip",
             "addons": [
