@@ -5,9 +5,9 @@
     "roms": [
         {
             "label": "CM7 ROMs for Samsung Galaxy 5",
-            "name": "CyanogenMod 7.2-RC0",
-            "summary": "Version 2.1 [fake - update test] (20120207)",
-            "visible": "false",
+            "name": "CyanogenMod 7.2-RC0 v2.1",
+            "summary": "[fake - update test] (20120207)",
+            "visible": "true",
             "product": "gingerbread-nightly",
             "modversion": "CyanogenMod-7-20120207-MADTEAM-galaxy5",
             "incremental": "20120207",
@@ -26,8 +26,8 @@
         },
         {
             "label": "CM7 ROMs for Samsung Galaxy 5",
-            "name": "CyanogenMod 7.2-RC0",
-            "summary": "Version 2.0 (20120206)",
+            "name": "CyanogenMod 7.2-RC0 v2.0",
+            "summary": "(20120206)",
             "product": "gingerbread-nightly",
             "modversion": "CyanogenMod-7-20120206-MADTEAM-galaxy5",
             "incremental": "20120206",
@@ -88,8 +88,8 @@
         {
             "label": "CM7 ROMs for Huawei U8160/U8180",
             "name": "CyanogenMod 7.2-RC0",
-            "summary": "Nightly Release (20120204) [fake test]",
-            "visible": "true",
+            "summary": "[fake update test] (20120204)",
+            "visible": "false",
             "product": "gingerbread-nightly",
             "modversion": "CyanogenMod-7-20120204-MADTEAM-U8160",
             "incremental": "20120204",
@@ -104,7 +104,7 @@
         },
         {
             "label": "CM7 ROMs for Huawei U8160/U8180",
-            "name": "CyanogenMod 7.2-RC0",
+            "name": "CyanogenMod 7.2-RC0 v0.9",
             "summary": "Nightly Release (20120203)",
             "product": "gingerbread-nightly",
             "modversion": "CyanogenMod-7-20120203-MADTEAM-U8160",
@@ -120,8 +120,8 @@
         },
         {
             "label": "CM9 ROMs for Huawei U8160/U8180",
-            "name": "CyanogenMod 9",
-            "summary": "Alpha 2 (20111129)\nDeveloper preview - not recommended",
+            "name": "CyanogenMod 9 alpha 2",
+            "summary": "(20111129)\nDeveloper preview - not recommended",
             "visible": "false",
             "product": "ics-nightly",
             "modversion": "CyanogenMod-9-20111129-MADTEAM-U8160",
